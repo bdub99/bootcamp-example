@@ -1,0 +1,2 @@
+# bootcamp-example
+class example
